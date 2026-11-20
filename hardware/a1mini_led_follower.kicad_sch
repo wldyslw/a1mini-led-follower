@@ -2408,7 +2408,7 @@
 		)
 		(uuid "543836ba-e674-4636-98a9-6b914b12ba61")
 	)
-	(text "6. D2 is a unidirectional TVS (P6KE30A), drawn with a Zener symbol; cathode to the fused 24 V line."
+	(text "6. D2 is a unidirectional TVS (P6KE30A), drawn with a Zener symbol"
 		(exclude_from_sim no)
 		(at 27.94 162.56 0)
 		(effects
@@ -2419,7 +2419,7 @@
 		)
 		(uuid "7a23070e-fe0e-4167-9084-c6be690579be")
 	)
-	(text "4. Gate approx. 12 V from R3/R2 divider; C3 filters PWM/glitches (tau approx. 24 ms). Strip defaults OFF."
+	(text "4. C3 filters PWM/glitches (tau approx. 24 ms), electrolytic also works with \"+\" towards gate. Strip defaults OFF."
 		(exclude_from_sim no)
 		(at 27.94 152.4 0)
 		(effects
@@ -2442,7 +2442,7 @@
 		)
 		(uuid "95f26349-a94c-4622-b136-73585109c0a1")
 	)
-	(text "3. Q1 BS170 pinout D-G-S. A 2N7000 (S-G-D) needs a different footprint pin map; OK only below 150 mA."
+	(text "3. Q1 BS170 pinout D-G-S. A 2N7000 (S-G-D) needs a different footprint pin map"
 		(exclude_from_sim no)
 		(at 27.94 147.32 0)
 		(effects
